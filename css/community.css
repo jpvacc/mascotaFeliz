@@ -1,0 +1,19 @@
+#community h3, h4 {
+    text-align: center;
+}
+
+#community .container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#community article {
+    margin: 15px;
+}
+
+#community img {
+    width: 100%;
+    height: 100%;
+    max-width: 280px ;
+}
